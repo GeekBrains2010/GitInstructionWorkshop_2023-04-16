@@ -84,3 +84,5 @@ _**Вот как это обычно работает:**_
 
 # Apache Subversion (SVN)
 
+# Thanks, I figured it out
+
