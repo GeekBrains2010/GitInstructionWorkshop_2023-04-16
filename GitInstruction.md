@@ -93,3 +93,6 @@ CVS (англ. Concurrent Versions System — система одновреме�
 
 # Apache Subversion (SVN)
 
+## Вношу изменения в данный файл
+
+Ссылка на [GitHub](https://github.com/) 
